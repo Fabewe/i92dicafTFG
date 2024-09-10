@@ -169,7 +169,7 @@ void loop() {
 
 
 //Detectar curva en FFT
- if((vReal[49] > vReal[37]) && (vReal[37]>vReal[42])){
+ if((vReal[34] > vReal[44]) && (vReal[51]>vReal[44])){
 
   nSound++;
 
