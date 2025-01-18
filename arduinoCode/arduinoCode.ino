@@ -67,8 +67,8 @@ double vImag[samples];
 
 
 //
-String appEui = "0000000000000000";
-String appKey = "568B75EED37504C0A879B0DDB678ED8D";
+String appEui = "-";
+String appKey = "-";
 
 unsigned long time = 0;
 unsigned int data = 0;
